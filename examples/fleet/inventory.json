@@ -1,0 +1,5 @@
+[
+  {"host": "edge-a", "target_version": "17.09.05"},
+  {"host": "edge-b", "target_version": "17.09.05"},
+  {"host": "unreachable-demo", "target_version": "17.09.05"}
+]

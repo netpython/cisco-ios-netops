@@ -1,0 +1,4 @@
+Port        Name                Status       Vlan       Duplex  Speed   Type
+Gi1/0/1     Lab access          connected    20         a-full  a-1000  10/100/1000BaseTX
+Gi1/0/2                         notconnect   1          auto    auto    10/100/1000BaseTX
+Gi1/0/24    Lab uplink          connected    trunk      a-full  a-1000  10/100/1000BaseTX

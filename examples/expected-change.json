@@ -1,0 +1,4 @@
+[
+  {"check": "lldp", "key": "Gi1/0/24|0200.0000.0001|Gi0/1|dist-a", "change": "neighbor_removed"},
+  {"check": "lldp", "key": "Gi1/0/24|0200.0000.0002|Gi0/1|dist-b", "change": "neighbor_added"}
+]

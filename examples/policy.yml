@@ -1,0 +1,12 @@
+- id: SSH_VERSION_2
+  scope: global
+  mode: require
+  pattern: '^ip ssh version 2$'
+- id: NTP_CONFIGURED
+  scope: global
+  mode: require
+  pattern: '^ntp server\s+'
+- id: VTY_SSH_ONLY
+  scope: vty
+  mode: require
+  pattern: '^transport input ssh$'

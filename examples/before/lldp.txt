@@ -1,0 +1,7 @@
+------------------------------------------------
+Local Intf: Gi1/0/24
+Chassis id: 0200.0000.0001
+Port id: Gi0/1
+System Name: dist-a
+
+Total entries displayed: 1

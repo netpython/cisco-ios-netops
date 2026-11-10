@@ -1,0 +1,3 @@
+Cisco IOS XE Software, Version 17.09.04
+Cisco IOS Software [Cupertino], Catalyst L3 Switch Software (CAT9K_IOSXE), Version 17.9.5, RELEASE SOFTWARE (fc1)
+edge-b uptime is 3 weeks, 2 days

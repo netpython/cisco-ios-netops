@@ -1,0 +1,5 @@
+NAME: "Switch 1", DESCR: "Lab Catalyst switch"
+PID: C9200L-24P-4G    , VID: V01  , SN: DEMO0000001
+
+NAME: "Switch 2", DESCR: "Lab Catalyst switch"
+PID: C9200L-24P-4G    , VID: V01  , SN: DEMO0000002
