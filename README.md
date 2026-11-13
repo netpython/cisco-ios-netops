@@ -98,3 +98,7 @@ python -m unittest discover -s tests -v
 ```
 
 [Netmiko project](https://github.com/ktbyers/netmiko)
+
+## Runbook post-changement
+
+Le [runbook de capture et validation IOS](docs/change-validation-runbook.md) décrit la préparation, les contrôles pendant la fenêtre et l'exploitation des rapports après changement.
