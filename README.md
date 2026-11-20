@@ -35,6 +35,7 @@ Open `out/changes.html` in a browser. This replay needs Python and the included 
 | [collect_device_inventory.py](scripts/collect_device_inventory.py) | `show version`, `show inventory` | JSON with hostname, software version and component PIDs, revisions and serials |
 | [export_switchport_status.py](scripts/export_switchport_status.py) | `show interfaces status` | CSV with port names, link states, VLANs, speed, duplex and media |
 | [export_lldp_neighbors.py](scripts/export_lldp_neighbors.py) | `show lldp neighbors detail` | CSV with local and remote ports, chassis ID and system name |
+| [export_arp_table.py](scripts/export_arp_table.py) | `show ip arp` | CSV including incomplete neighbors; [usage and limits](docs/arp-export.md) |
 | [backup_running_config.py](scripts/backup_running_config.py) | `show running-config` | UTC-stamped local backup with owner-only permissions on POSIX |
 
 ```bash

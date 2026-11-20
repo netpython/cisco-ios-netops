@@ -14,6 +14,7 @@ COMMANDS = {
     "lldp": "show lldp neighbors detail",
     "trunks": "show interfaces trunk",
     "config": "show running-config",
+    "arp": "show ip arp",
 }
 CLI_ERROR = re.compile(
     r"^\s*%\s*(?:invalid input|incomplete command|ambiguous command|"
